@@ -1,8 +1,21 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Joko Eliyanto 🧑🏻
 
-<p>
-    <img align='left' src="https://github-readme-stats.vercel.app/api?username=jokoeliyanto&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=25" />
-    <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokoeliyanto&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&layout=compact" height=180 />
+<table><tr><td valign="top" width="50%">
+ ### Recent releases
+<!-- recent_releases starts -->
+ aku
+    
+</td><td valign="top" width="50%">  
+<!-- recent_releases ends -->
+    
+### On my blog
+<!-- blog starts -->
+coba
+
+<!-- blog ends -->
+</td></tr></table>
+    <img src="https://github-readme-stats.vercel.app/api?username=jokoeliyanto&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=25" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokoeliyanto&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&layout=compact" height=180 />
 </p>
 
 I am mathematicians who passionate to be a data scientist. I love to learn Data Visualization, Big Data, Machine Learning, Data Mining, R programming, Python programming and other data science topics.
