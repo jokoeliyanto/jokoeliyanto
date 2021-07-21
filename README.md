@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Joko Eliyanto 🧑🏻
+<img src="https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/GitHub.png">
 
 <table><tr><td valign="top" width="50%">
 <!-- recent_releases starts -->
@@ -15,14 +15,6 @@
 
 I am mathematicians who passionate to be a data scientist. I love to learn Data Visualization, Big Data, Machine Learning, Data Mining, R programming, Python programming and other data science topics.
 
-
-### ✨ My Top Repositories
-
-
-- [**My Personal Projects**](https://github.com/eliyanto29/My-Personal-Projects) - *Here is place to share my personal projects that I have done*
-- [**DQLab**](https://github.com/eliyanto29/DQLab) - *Share what I have learn in awesome DQ-Lab Learning Platform*
-- [**Coursera**](https://github.com/eliyanto29/Coursera) - *Share what I have learn in awesome Courseera Learning Platform*
-- [**My Academics Paper**](https://github.com/eliyanto29/My-Academics-Paper-On-Data-Science) - *Place for my academics paper for free*
 
 ### 📱 You Can Reach Me at
 
