@@ -1,6 +1,8 @@
-<img src="https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/GitHub.png">
+### Assalamualaikum, I am
+# Joko Eliyanto
 
-I am mathematicians who passionate to be a data scientist. I love to learn Data Visualization, Big Data, Machine Learning, Data Mining, R programming, Python programming and other data science topics.
+I am a junior data scientist with strong background in Mathematics, Statistics and Machine Learning. I have carried out various published research in mathematics and
+data science during my masters education. Data Science, AI and Machine Learning are my passion. I have created various personal projects as portfolios. 
 
 
 
