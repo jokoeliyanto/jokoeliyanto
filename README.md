@@ -1,10 +1,7 @@
 ### Assalamualaikum, I am
 # Joko Eliyanto
 
-I am a junior data scientist with strong background in Mathematics, Statistics and Machine Learning. I have carried out various published research in mathematics and
-data science during my masters education. Data Science, AI and Machine Learning are my passion. I have created various personal projects as portfolios. 
-
-
+Data Scientist with two years of experience, including profound expertise and experience in building dashboard analytics using Tableau, an expert in SQL databases query, proficient in Python and R scripting, skilled in  Statistical Methods & Machine Learning Algorithm, experience in building Machine Learning & Deep Learning Models and have a strong background in Mathematics and Education.
 
 
 ### 📱 Sosial Media
