@@ -3,6 +3,18 @@
 
 Data Scientist with two years of experience, including profound expertise and experience in building dashboard analytics using Tableau, an expert in SQL databases query, proficient in Python and R scripting, skilled in  Statistical Methods & Machine Learning Algorithm, experience in building Machine Learning & Deep Learning Models and have a strong background in Mathematics and Education.
 
+### Data Science Mentor & Speaker
+
+Ruang Guru: DBA Bootcamp           |  International Summer Course on ML 2022 | International Summer Course on ML 2021
+:-------------------------:|:-------------------------:|:------------------------------:
+![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/Sertifikat%20Instruktur%20DBA%20JOKO%20ELIYANTO.png) |![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/Joko%20Eliyanto%2C%20S.Si.%2C%20M.Pd.%20(1)_Page1.png)  |![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/Joko%20Eliyanto%2C%20S.Si.%2C%20M.Pd%20SC1_Page1.png)
+
+UB : NSC 2022            |  My Skill: Data Science Bootcamp | UAD: MOS 2022
+:-------------------------:|:-------------------------:|:------------------------------:
+![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/PEMATERI%20WORKSHOP_Joko%20Eliyanto%2C%20S.Si.%2C%20M.Pd.png) |![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/06036-%20Mentor%20%20-%20Data%20Science%20E-Certificate.png)  |![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/Joko%20Eliyanto%2C%20M.Pd_.png)
+
+
+
 ### Data Science Certificate 
 
 DATACAMP: Data Analyst in SQL            |  TensorFlow Developer Certificate | DeepLearning.AI: TensorFlow Developer
@@ -17,9 +29,23 @@ DQLAB: Data Analyst Python Track            |  DICODING: ML Untuk Pemula | DATAC
 :-------------------------:|:-------------------------:|:------------------------------:
 ![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/certificate-DQLABDATRCIPAIMU.png) |![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/sertifikat_course_184_684733_150920132916.png)  |![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/SQL%20Fundamental.png)
 
-### Data Science Mentor & Speaker
 
+### Academic Paper
 
+Berikut link tesis saya di digilib UAD:
+http://digilib.uad.ac.id/penelitian/Penelitian/detail/118282/metode-fuzzy-cmeans-clustering-dengan-reduksi-dimensi-core-reduct-untuk-analisis-klaster-covid19-di-indonesia
+
+Prosiding Pertama dengan Pak Parman sebagai hasil awal penelitian Tesis(Reduksi Dimensi):
+http://seminar.uad.ac.id/index.php/STEEEM/article/view/2842
+
+Prosiding Kedua dengan Pak Gik sebagai hasil awal penelitian Tesis(Resuksi Dimensi PCA pada Fuzzy Clustering):
+http://prosiding.himatikauny.org/index.php/prosidinglsm/article/view/103
+
+Paper International Hasil Penelitian Tesis:
+https://www.kansaiuniversityreports.com/article/dimension-reduction-using-core-and-reduct-to-improve-fuzzy-c-means-clustering-performance
+
+Paper Nasional Hasil Penelitian Tesis:
+http://journal.uad.ac.id/index.php/JITEKI/article/view/20516
 
 ### 📱 Sosial Media
 
