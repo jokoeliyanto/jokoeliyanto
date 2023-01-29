@@ -11,6 +11,14 @@ DATACAMP: Data Analyst in SQL            |  TensorFlow Developer Certificate | D
 :-------------------------:|:-------------------------:|:------------------------------:
 ![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/Data%20Analyst%20SQL%20Path%20Datacamp.png) |![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/qiwiwcyb.png)  |![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/Coursera%20E32DMWHAY3PL.png)
 
+Google: BANGKIT            |  FGA: Big Data Analytics | OA: Python Training
+:-------------------------:|:-------------------------:|:------------------------------:
+![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/BANGKIT.png) |![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/FGA1_Page1.png)  |![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/Python%20Training_Page1.png)
+
+DQLAB: Data Analyst Python Track            |  DICODING: ML Untuk Pemula | 
+:-------------------------:|:-------------------------:|:------------------------------:
+![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/certificate-DQLABDATRCIPAIMU.png) |![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/sertifikat_course_184_684733_150920132916.png)  |![]()
+
 
 
 ### 📱 Sosial Media
