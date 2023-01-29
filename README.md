@@ -1,8 +1,12 @@
 ### Assalamualaikum, I am
-# Joko Eliyanto
+# Joko Eliyanto, S.Si., M.Pd
 
 Data Scientist with two years of experience, including profound expertise and experience in building dashboard analytics using Tableau, an expert in SQL databases query, proficient in Python and R scripting, skilled in  Statistical Methods & Machine Learning Algorithm, experience in building Machine Learning & Deep Learning Models and have a strong background in Mathematics and Education.
 
+### Data Science Certificate 
+
+#### Data Analyst in SQL
+![alt text](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/Data%20Analyst%20SQL%20Path%20Datacamp.png)
 
 ### 📱 Sosial Media
 
