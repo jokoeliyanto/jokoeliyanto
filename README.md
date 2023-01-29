@@ -42,16 +42,16 @@ DQLAB: Data Analyst Python Track            |  DICODING: ML Untuk Pemula | DATAC
 
 ### Academic Paper
 
-1. ![Optimization of Fuzzy Support Vector Machine (FSVM) Model in Multiple Metric Spaces ICAIBDA 2021](http://eprints.uad.ac.id/37563/)
-2. ![Outlier Detection Using K-Means Clustering with Minkowski-Chebyshev  distances for Inquiry-Based Learning Results in Students Dataset](https://ieeexplore.ieee.org/document/9689736)
-3. ![An Optimization of Several Distance Function on Fuzzy Subtractive Clustering Fuzzy Systems and Data Mining VII](http://eprints.uad.ac.id/37574/)
-4. ![Distance Functions Study in Fuzzy C-Means Core and Reduct Clustering](http://journal.uad.ac.id/index.php/JITEKI/article/view/20516)
-5. ![A Fuzzy Logic in Election Sentiment Analysis: Comparison Between Fuzzy Naïve Bayes and Fuzzy Sentiment using CNN](https://journal.ummat.ac.id/index.php/jtam/article/view/3766)
-6. ![Fuzzy Sentiment Analysis Using Convolutional Neural Network](https://aip.scitation.org/doi/abs/10.1063/5.0042144)
-7. ![Dimension Reduction Using Core and Reduce to Improve Fuzzy C-Means  Clustering Performance](https://www.kansaiuniversityreports.com/article/dimension-reduction-using-core-and-reduct-to-improve-fuzzy-c-means-clustering-performance)
-8. ![Meningkatkan Performa Fuzzy Clustering dengan Principal Component Analysis](http://prosiding.himatikauny.org/index.php/prosidinglsm/article/view/103)
-9. ![Reduksi Dimensi untuk Meningkatkan Performa Metode Fuzzy Klastering pada Big Data](http://seminar.uad.ac.id/index.php/STEEEM/article/view/2842)
-10. ![Pemodelan Persamaan Navier-Stokes untuk Aliran Fluida Tidak Termampatkan](http://journal.uad.ac.id/index.php/Konvergensi/article/view/19545)
+1. [Optimization of Fuzzy Support Vector Machine (FSVM) Model in Multiple Metric Spaces ICAIBDA 2021](http://eprints.uad.ac.id/37563/)
+2. [Outlier Detection Using K-Means Clustering with Minkowski-Chebyshev  distances for Inquiry-Based Learning Results in Students Dataset](https://ieeexplore.ieee.org/document/9689736)
+3. [An Optimization of Several Distance Function on Fuzzy Subtractive Clustering Fuzzy Systems and Data Mining VII](http://eprints.uad.ac.id/37574/)
+4. [Distance Functions Study in Fuzzy C-Means Core and Reduct Clustering](http://journal.uad.ac.id/index.php/JITEKI/article/view/20516)
+5. [A Fuzzy Logic in Election Sentiment Analysis: Comparison Between Fuzzy Naïve Bayes and Fuzzy Sentiment using CNN](https://journal.ummat.ac.id/index.php/jtam/article/view/3766)
+6. [Fuzzy Sentiment Analysis Using Convolutional Neural Network](https://aip.scitation.org/doi/abs/10.1063/5.0042144)
+7. [Dimension Reduction Using Core and Reduce to Improve Fuzzy C-Means  Clustering Performance](https://www.kansaiuniversityreports.com/article/dimension-reduction-using-core-and-reduct-to-improve-fuzzy-c-means-clustering-performance)
+8. [Meningkatkan Performa Fuzzy Clustering dengan Principal Component Analysis](http://prosiding.himatikauny.org/index.php/prosidinglsm/article/view/103)
+9. [Reduksi Dimensi untuk Meningkatkan Performa Metode Fuzzy Klastering pada Big Data](http://seminar.uad.ac.id/index.php/STEEEM/article/view/2842)
+10. [Pemodelan Persamaan Navier-Stokes untuk Aliran Fluida Tidak Termampatkan](http://journal.uad.ac.id/index.php/Konvergensi/article/view/19545)
 11. AFFINE-HILL-LU Cipher With MATLAB Implementation
 
 
