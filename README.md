@@ -6,7 +6,12 @@ Data Scientist with two years of experience, including profound expertise and ex
 ### Data Science Certificate 
 
 #### Data Analyst in SQL
-![alt text](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/Data%20Analyst%20SQL%20Path%20Datacamp.png)
+
+DATACAMP: Data Analyst in SQL            |  TensorFlow Developer Certificate | DeepLearning.AI: TensorFlow Developer
+:-------------------------:|:-------------------------:|:------------------------------:
+![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/Data%20Analyst%20SQL%20Path%20Datacamp.png) |![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/qiwiwcyb.png)  |![](https://raw.githubusercontent.com/jokoeliyanto/jokoeliyanto/main/Coursera%20E32DMWHAY3PL.png)
+
+
 
 ### 📱 Sosial Media
 
