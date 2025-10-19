@@ -1,7 +1,8 @@
 ### Assalamualaikum, I am
 # Joko Eliyanto, S.Si., M.Pd
 
-Data Scientist with two years of experience, including profound expertise and experience in building dashboard analytics using Tableau, an expert in SQL databases query, proficient in Python and R scripting, skilled in  Statistical Methods & Machine Learning Algorithm, experience in building Machine Learning & Deep Learning Models and have a strong background in Mathematics and Education.
+Results-driven Data Scientist with 5+ years of experience across industry applications and education. Proven track record in solving complex problems using data analysis, visualization, and machine learning. Strong academic background in Mathematics, complemented by active participation in workshops and certifications in statistics, big data, data mining, artificial intelligence, data engineering, and SQL databases. Proficient in SQL querying, Python programming, web scraping, data pipeline optimization (Airflow), and dashboard development using tools such as Tableau, Power BI, and Kibana. Experienced in publishing research at national and international levels and passionate about transforming data into actionable insights that drive strategic business decisions. Recently, also involved in the development of an AI-powered chatbot using Large Language Models (LLM) integrated with Retrieval-Augmented Generation (RAG) frameworks to enhance contextual understanding and response accuracy.
+
 
 ### 📱 Sosial Media
 
